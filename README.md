@@ -226,7 +226,7 @@ CREATE TABLE loans (
 
 ### Step 3: Load Data
 Import CSV file into loans table:
-```
+```sql
 LOAD DATA INFILE 'loan_data_1000_records.csv'
 INTO TABLE loans
 FIELDS TERMINATED BY ','
