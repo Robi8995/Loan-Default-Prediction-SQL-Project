@@ -335,13 +335,10 @@ By working through this project, you will learn:
 
 ---
 
-## 🔗 Related Projects
-
-- Inventory & Supplier Analysis
-- Bank Customer Segmentation
-- Hospital Patient Records Analysis
-- Telco Customer Churn Analysis
-- Healthcare Claims Analysis
+## 📚 Technical Stack
+- Database: MySQL 8.0+
+- Languages: SQL
+- Tools: MySQL Workbench, CSV Export
 
 ---
 
