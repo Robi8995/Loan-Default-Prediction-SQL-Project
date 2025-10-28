@@ -298,20 +298,6 @@ FIELDS TERMINATED BY ','
 FROM (SELECT repayment_history, COUNT(*) AS total_loans FROM loans GROUP BY repayment_history) t;
 ```
 
----
-
-## 📊 Recommended Visualizations
-
-- **Portfolio Health Dashboard** - Pie chart of repayment history distribution (Good/Average/Poor)
-- **Risk Tier Breakdown** - Stacked bar chart showing borrower counts by risk category
-- **Loan Exposure by Risk** - Column chart comparing total loan amounts per tier
-- **High-Risk Watchlist** - Table view of 150 priority borrowers with credit scores
-- **Credit Score Distribution** - Histogram showing score ranges and frequency
-- **Income vs Credit Score** - Scatter plot for correlation analysis
-- **Average Loan by Risk** - Bar chart comparing loan sizes across segments
-
----
-
 ## 🎓 Learning Outcomes
 
 By working through this project, you will learn:
