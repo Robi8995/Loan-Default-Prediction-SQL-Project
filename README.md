@@ -290,14 +290,6 @@ GROUP BY risk_category
 ORDER BY total_loan_amount DESC;
 ```
 
-### Step 5: Export Results
-Export query results to CSV for visualization:
-```sql
-SELECT * INTO OUTFILE 'overall_loan_default_rate.csv'
-FIELDS TERMINATED BY ','
-FROM (SELECT repayment_history, COUNT(*) AS total_loans FROM loans GROUP BY repayment_history) t;
-```
-
 ## 🎓 Learning Outcomes
 
 By working through this project, you will learn:
