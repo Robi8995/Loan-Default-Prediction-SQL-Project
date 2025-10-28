@@ -314,18 +314,20 @@ By working through this project, you will learn:
 
 ---
 
-## 📝 Author
+## 📚 Technical Stack
 
+| Component | Technology |
+|-----------|------------|
+| **Database** | MySQL 8.0+ |
+| **Languages** | SQL |
+| **Tools** | MySQL Workbench, CSV Export |
+
+---
+
+## 📝 Author
 **Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ---
 
-## 📚 Technical Stack
-- Database: MySQL 8.0+
-- Languages: SQL
-- Tools: MySQL Workbench, CSV Export
-
----
-
-*This project demonstrates practical SQL expertise in financial risk analytics, combining database design with risk management principles to drive measurable portfolio improvements and strategic lending decisions.*
+*This project demonstrates practical SQL expertise in financial risk analytics, combining database design with risk management principles to drive measurable portfolio improvements and strategic lending decisions*
