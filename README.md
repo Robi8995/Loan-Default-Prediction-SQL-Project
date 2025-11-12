@@ -156,24 +156,6 @@ Banks face portfolio risk from borrowers likely to default on loans, leading to 
 
 ---
 
-## 💼 Business Impact
-
-✅ **Default Prevention:** Identify 150 high-risk borrowers for proactive monitoring and collection efforts
-
-✅ **Portfolio Quality:** 78.60% good payment history demonstrates sound underwriting practices
-
-✅ **Risk Mitigation:** Conservative loan sizing to high-risk borrowers limits financial exposure
-
-✅ **Regulatory Compliance:** Risk segmentation supports capital adequacy and regulatory requirements
-
-✅ **Revenue Protection:** Early intervention on 204 average-risk accounts prevents deterioration
-
-✅ **Strategic Lending:** Data-driven decisions optimize risk-return balance and profitability
-
-✅ **Loss Minimization:** Reduces default rates by 10-15% through early risk identification
-
----
-
 ## 📁 Output Files
 
 **CSV Files Generated:**
